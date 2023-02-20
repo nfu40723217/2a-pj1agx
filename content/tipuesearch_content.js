@@ -1,0 +1,1 @@
+var tipuesearch = {"pages": [{'title': 'About', 'text': 'https://github.com/mdecd2023/resume-scrum-1   \n https://github.com/mdecd2023/2a-pj1agx   \n', 'tags': '', 'url': 'About.html'}]};
