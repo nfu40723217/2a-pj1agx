@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': 'https://github.com/mdecd2023/resume-scrum-1   \n https://github.com/mdecd2023/2a-pj1agx   \n', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': 'https://github.com/mdecd2023/resume-scrum-1 \n https://github.com/mdecd2023/2a-pj1agx \n https://mdecd2023.github.io/2a-pj1agx   \n', 'tags': '', 'url': 'About.html'}]};
